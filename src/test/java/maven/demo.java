@@ -8,6 +8,7 @@ public class demo {
 		System.out.println("Hii this is maven project for jenkins");
 		System.out.println("Updated");
 		System.out.println("Hi i am here");
+		System.out.println("Hi i am gone");
 
 	}
 
