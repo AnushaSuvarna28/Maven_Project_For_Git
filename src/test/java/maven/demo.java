@@ -1,8 +1,12 @@
 package maven;
 
-public class demo {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) 
+public class demo 
+{
+
+	@Test
+	public void m1()
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Hii this is maven project for jenkins");
